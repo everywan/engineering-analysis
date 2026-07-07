@@ -1,0 +1,20 @@
+{
+  "name": "engineering-analysis",
+  "interface": {
+    "displayName": "Engineering Analysis"
+  },
+  "plugins": [
+    {
+      "name": "engineering-analysis",
+      "source": {
+        "source": "local",
+        "path": "./plugins/engineering-analysis"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
