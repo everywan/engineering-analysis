@@ -1,5 +1,5 @@
 {
-  "name": "engineering-analysis",
+  "name": "ea",
   "version": "0.1.0",
   "description": "生成 EA（Engineering Analysis）开发草稿，用于 PRD 之后、Spec/Plan 之前固化工程理解、核心思想路径和核心设计草图。",
   "author": {
@@ -10,9 +10,9 @@
   "repository": "https://github.com/everywan/engineering-analysis",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Engineering Analysis",
+    "displayName": "EA",
     "shortDescription": "生成 PRD 与 Spec 之间的 EA 开发草稿。",
-    "longDescription": "Engineering Analysis 生成或更新 EA 开发草稿，帮助开发者在进入 Spec/Plan 前固化工程理解、核心思想路径、核心设计草图、关键取舍、影响点和预期结果，避免草稿膨胀成完整技术方案或详细任务计划。",
+    "longDescription": "EA（Engineering Analysis）生成或更新开发草稿，帮助开发者在进入 Spec/Plan 前固化工程理解、核心思想路径、核心设计草图、关键取舍、影响点和预期结果，避免草稿膨胀成完整技术方案或详细任务计划。",
     "developerName": "everywan",
     "category": "Productivity",
     "capabilities": [

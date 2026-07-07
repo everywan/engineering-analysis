@@ -1,9 +1,9 @@
 ---
-name: engineering-analysis
+name: ea
 description: 生成或更新 EA（Engineering Analysis）开发草稿。用于 PRD 之后、Spec/Plan 之前，帮助开发者固化工程理解、核心思想路径、核心设计草图、关键取舍、影响点和预期结果。适用于用户要求写 EA、Engineering Analysis、开发草稿、工程分析、核心设计草图，或需要在进入 spec 前先对齐开发方案的场景。EA 不能写成完整 spec，也不能写成详细 plan。
 ---
 
-# Engineering Analysis
+# EA
 
 EA 是 PRD 和 spec 之间的开发草稿，用来记录开发者理解需求后的核心工程思路和设计草图。
 

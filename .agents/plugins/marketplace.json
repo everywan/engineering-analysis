@@ -1,14 +1,14 @@
 {
-  "name": "engineering-analysis",
+  "name": "ea",
   "interface": {
-    "displayName": "Engineering Analysis"
+    "displayName": "EA"
   },
   "plugins": [
     {
-      "name": "engineering-analysis",
+      "name": "ea",
       "source": {
         "source": "local",
-        "path": "./plugins/engineering-analysis"
+        "path": "./plugins/ea"
       },
       "policy": {
         "installation": "AVAILABLE",
